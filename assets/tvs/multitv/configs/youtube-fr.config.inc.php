@@ -3,21 +3,21 @@ $settings['display'] = 'vertical';
 $settings['fields'] = array(
 
 	'title' => array(
-		'caption' => 'Titolo (opz)',
+		'caption' => 'Titre (optionnel)',
 		'type' => 'text'
 	),
 	'video' => array(
-		'caption' => 'YouTube video ID',
+		'caption' => 'YouTube Vidéo ID',
 		'type' => 'text'
 	),
     'showthumb' => array(
-        'caption' => 'Video o Miniatura',
+        'caption' => 'Vidéo ou Miniature',
         'type' => 'dropdown',
           'width' => '180',
         'elements' => 'video==0||thumb==1'
     ),
     'ratio' => array(
-        'caption' => 'Rapporto (video)',
+        'caption' => 'Format (Vidéo)',
         'type' => 'dropdown',
           'width' => '180',
         'elements' => '16/9==16by9||4/3==4by3'
