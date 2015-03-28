@@ -11,5 +11,8 @@
  * @internal    @installset base
  * @internal    @overwrite false
  */
+<!--- for all templates: this stylesheet includes BS 3.2 embed responsive classes-->
+<link rel="stylesheet" type="text/css" href="assets/templates/common/css/youtubetv/youtubetv-responsive.css" media="screen" />
 
-<link rel="stylesheet" type="text/css" href="assets/templates/common/css/youtubetv/youtubetv.css" media="screen" />
+<!--- for boostrap 3.2 templates-->
+<!---<link rel="stylesheet" type="text/css" href="assets/templates/common/css/youtubetv/youtubetv.css" media="screen" />-->
