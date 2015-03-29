@@ -16,3 +16,6 @@
 
 <!--- for boostrap 3.2 templates-->
 <!---<link rel="stylesheet" type="text/css" href="assets/templates/common/css/youtubetv/youtubetv.css" media="screen" />-->
+
+<!--- font awesome 4.3.0 - uncomment if your templates does not include font awesome-->
+<!---<link rel="stylesheet" type="text/css" href="assets/templates/common/fonts/font-awesome/css/font-awesome.min.css" media="screen" />-->
